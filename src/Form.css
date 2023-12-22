@@ -1,4 +1,8 @@
-.comments {
+.comments__container {
   display: flex;
   flex-direction: column;
+}
+
+h4:first-of-type {
+  text-shadow: rgb(14, 104, 240) 2px 0 10px;
 }
